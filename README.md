@@ -1,2 +1,2 @@
 # Saper
-Gra Saper wykonana w CodeTyphon.
+- Gra Saper wykonana w CodeTyphon.
