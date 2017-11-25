@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="23">
+      <Unit0>
+        <Filename Value="project1.ppr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="16" Y="10"/>
+        <UsageCount Value="52"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="USaper.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="SaperForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <TopLine Value="473"/>
+        <CursorPos X="29" Y="493"/>
+        <UsageCount Value="52"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="C:\codetyphon\typhon\lcl\graphics.pp"/>
+        <UnitName Value="Graphics"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="150"/>
+        <CursorPos X="3" Y="100"/>
+        <UsageCount Value="19"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="C:\codetyphon\fpcsrc\rtl\objpas\classes\classesh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="8"/>
+        <CursorPos X="4" Y="27"/>
+        <UsageCount Value="14"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="C:\codetyphon\fpcsrc\rtl\inc\typshrdh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="127"/>
+        <CursorPos X="16" Y="35"/>
+        <UsageCount Value="11"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="C:\codetyphon\fpcsrc\rtl\inc\typshrd.inc"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="83" Y="111"/>
+        <UsageCount Value="11"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="C:\codetyphon\fpcsrc\rtl\win\wininc\redef.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="633"/>
+        <CursorPos X="10" Y="652"/>
+        <UsageCount Value="11"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="C:\codetyphon\typhon\lcl\include\region.inc"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="9"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="C:\codetyphon\typhon\lcl\graphtype.pp"/>
+        <UnitName Value="GraphType"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="21"/>
+        <CursorPos X="13" Y="43"/>
+        <UsageCount Value="13"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="C:\codetyphon\typhon\lcl\include\canvas.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="155"/>
+        <CursorPos X="3" Y="157"/>
+        <UsageCount Value="9"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="C:\codetyphon\typhon\lcl\interfacebase.pp"/>
+        <UnitName Value="InterfaceBase"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="150"/>
+        <CursorPos X="15" Y="167"/>
+        <UsageCount Value="9"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="C:\codetyphon\typhon\lcl\include\interfacebase.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="73"/>
+        <CursorPos Y="104"/>
+        <UsageCount Value="9"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="C:\codetyphon\typhon\components\pl_BGRAbitmap\source\bgracustombitmap.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="251"/>
+        <CursorPos X="6" Y="269"/>
+        <UsageCount Value="10"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="C:\codetyphon\typhon\components\pl_BGRAbitmap\source\bgragraphics.pas"/>
+        <UnitName Value="BGRAGraphics"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="4"/>
+        <CursorPos X="44" Y="29"/>
+        <UsageCount Value="12"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="C:\codetyphon\typhon\components\pl_BGRAbitmap\source\bgrabitmaptypes.pas"/>
+        <UnitName Value="BGRABitmapTypes"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="12"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="C:\codetyphon\typhon\components\pl_BGRAbitmap\source\bgrabitmap.pas"/>
+        <UnitName Value="BGRABitmap"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="71"/>
+        <CursorPos X="50" Y="90"/>
+        <UsageCount Value="12"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="C:\codetyphon\typhon\components\pl_BGRAbitmap\source\bgrawinbitmap.pas"/>
+        <UnitName Value="BGRAWinBitmap"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="235"/>
+        <CursorPos X="3" Y="36"/>
+        <UsageCount Value="12"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="C:\codetyphon\typhon\components\pl_BGRAbitmap\source\bgradefaultbitmap.pas"/>
+        <UnitName Value="BGRADefaultBitmap"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="551"/>
+        <CursorPos X="15" Y="568"/>
+        <UsageCount Value="12"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="C:\codetyphon\typhon\components\pl_BGRAbitmap\source\bgrapixel.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="45"/>
+        <CursorPos X="52" Y="64"/>
+        <UsageCount Value="12"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="C:\codetyphon\typhon\components\pl_BGRAbitmap\source\csscolorconst.inc"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="38" Y="27"/>
+        <UsageCount Value="11"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="C:\codetyphon\fpcsrc\rtl\objpas\types.pp"/>
+        <UnitName Value="Types"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="61"/>
+        <CursorPos X="3" Y="80"/>
+        <UsageCount Value="10"/>
+      </Unit20>
+      <Unit21>
+        <Filename Value="C:\codetyphon\fpcsrc\rtl\inc\objpash.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="199"/>
+        <CursorPos X="25" Y="205"/>
+        <UsageCount Value="10"/>
+      </Unit21>
+      <Unit22>
+        <Filename Value="C:\codetyphon\fpcsrc\rtl\inc\objpas.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="963"/>
+        <CursorPos X="9" Y="385"/>
+        <UsageCount Value="10"/>
+      </Unit22>
+    </Units>
+    <JumpHistory Count="2" HistoryIndex="1">
+      <Position1>
+        <Filename Value="USaper.pas"/>
+        <Caret Line="23" Column="63" TopLine="19"/>
+      </Position1>
+      <Position2>
+        <Filename Value="USaper.pas"/>
+        <Caret Line="478" Column="22" TopLine="476"/>
+      </Position2>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
